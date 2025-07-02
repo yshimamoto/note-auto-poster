@@ -3,3 +3,13 @@ selenium>=4.0.0
 pandas>=2.0.0
 schedule>=1.2.0
 python-dotenv>=1.0.0
+
+# オプション：より良いMarkdown処理のため
+markdown>=3.4.0
+
+# 開発・テスト用
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
